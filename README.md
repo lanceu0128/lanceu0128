@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanceu0128&show=reviews&hide=contribs)](https://github.com/lanceu0128/github-readme-stats)
+[![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanceu0128&show=reviews&hide=contribs&theme=tokyonight)](https://github.com/lanceu0128/github-readme-stats)
 
 <!--
 **lanceu0128/lanceu0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
